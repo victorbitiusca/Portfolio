@@ -1,0 +1,4 @@
+Rosii, 36.0, 3.0
+Castraveti, 2.0, 2.5
+Ardei, 4.0, 4.0
+Ceapa, 0.0, 2.0
